@@ -1,0 +1,7 @@
+databricks_account_id = "value"
+databricks_host = "value"
+databricks_client_id = "value"
+databricks_client_secret ="value"
+databricks_account_host = "value"
+cluster_id = "value"
+cluster_name = "value"
