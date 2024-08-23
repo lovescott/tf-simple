@@ -15,3 +15,5 @@ databricks_account_host = "YOUR ACCOUNT HOST"
 cluster_id = "YOUR CLUSTER ID"
 cluster_name = "YOUR CLUSTER NAME"
 ```
+* run `terraform init`
+* run `terraform plan` or `terraform apply`
